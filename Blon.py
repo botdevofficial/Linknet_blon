@@ -11,7 +11,7 @@ from telegram.constants import ChatMemberStatus, ParseMode
 
 # === Configuration ===
 BOT_TOKEN = "7852112263:AAFdd4PBBDlFaHoqHzSicFMRKUA6VHMmTeg"
-ALLOWED_LINK_PREFIX = "https://gpay.app.goo.gl/"
+ALLOWED_LINK_PREFIX = "https://direct-link.net/"
 BLOCKLIST_FILE = "blocked_users.json"
 
 bot = Bot(token=BOT_TOKEN)
